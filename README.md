@@ -1,0 +1,3 @@
+# hobbyDB Vision
+
+The hobbyDB app is a simple UPC scanner to quickly scan and research items in the hobbyDB.com and poppriceguide.com catalog. Eventually support will be expanded to image and text recognition as well. The app can also generate a QR code from a custom URL, allowing easy sharing of links directly to your personal Showcase on hobbyDB.com and poppriceguide.com. The application also provides a direct link to the hobbyDB Blog so you can keep up-to-date with the latest information from hobbyDB!
