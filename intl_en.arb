@@ -1,0 +1,23 @@
+{
+  "@@last_modified": "2021-01-16T11:37:40.888152",
+  "launchScanner": "Launch Scanner",
+  "@launchScanner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createCustomQR": "Create Custom QR",
+  "@createCustomQR": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "help": "Help",
+  "@help": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "blog": "Blog",
+  "@blog": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
